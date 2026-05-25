@@ -45,7 +45,7 @@ End-to-end NLP pipeline converting structured telecom data into text sequences f
 
 Binary classifier (LR, Random Forest, SVM) with full NLP preprocessing pipeline, stratified k-fold CV, and F1-score tuning for class imbalance.
 
-- `89%` accuracy · `40%` dimensionality reduction via TF-IDF feature capping
+- `98%` accuracy · `40%` dimensionality reduction via TF-IDF feature capping
 
 ---
 
